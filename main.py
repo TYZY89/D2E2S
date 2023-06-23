@@ -1,7 +1,7 @@
 import argparse
 import math
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 os.environ['CUBLAS_WORKSPACE_CONFIG'] = ":4096:8"
 import torch
 import transformers
