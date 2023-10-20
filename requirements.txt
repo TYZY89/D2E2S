@@ -1,0 +1,11 @@
+Jinja2==3.1.2
+numpy==1.24.2
+tensorboardX==2.6
+tqdm==4.65.0
+transformers==4.28.1
+scikit-learn==1.2.2
+spacy==4.0.0.dev0
+np==1.0.2
+torch==2.0.0
+matplotlib==3.7.1
+torch_geometric==2.3.1
