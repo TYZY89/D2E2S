@@ -1,0 +1,55 @@
+No. 2 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 49.92987377279102, 'mic_recall': 36.66323377960865, 'mic_f1_score': 42.28028503562945, 'mac_precision': 27.263725061890202, 'mac_recall': 22.832281099997633, 'mac_f1_score': 24.557155724288883}
+No. 3 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 60.12903225806452, 'mic_recall': 47.991761071060765, 'mic_f1_score': 53.379152348224515, 'mac_precision': 36.74890687982511, 'mac_recall': 30.72935139864274, 'mac_f1_score': 33.461170715730866}
+No. 4 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 73.1418918918919, 'mic_recall': 44.593202883625125, 'mic_f1_score': 55.406269993602045, 'mac_precision': 39.236111111111114, 'mac_recall': 23.65988035279374, 'mac_f1_score': 29.20969236019697}
+No. 5 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 65.22277227722772, 'mic_recall': 54.273944387229655, 'mic_f1_score': 59.24676784710511, 'mac_precision': 49.531539051817646, 'mac_recall': 36.44120110816897, 'mac_f1_score': 38.03834689383994}
+No. 6 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 66.8103448275862, 'mic_recall': 63.85169927909372, 'mic_f1_score': 65.29752501316483, 'mac_precision': 54.11693662972436, 'mac_recall': 42.60373384873191, 'mac_f1_score': 44.16333084952144}
+No. 8 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 74.1504854368932, 'mic_recall': 62.924819773429455, 'mic_f1_score': 68.07799442896936, 'mac_precision': 55.98618706741957, 'mac_recall': 44.09563171019219, 'mac_f1_score': 49.10800666312658}
+No. 10 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 78.56209150326798, 'mic_recall': 61.89495365602472, 'mic_f1_score': 69.23963133640552, 'mac_precision': 57.96765903392496, 'mac_recall': 46.645354532278496, 'mac_f1_score': 51.396263520157326}
+No. 13 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 70.27027027027027, 'mic_recall': 72.29660144181257, 'mic_f1_score': 71.26903553299493, 'mac_precision': 54.456753182518156, 'mac_recall': 51.37024852398546, 'mac_f1_score': 50.83089905874716}
+No. 16 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 76.47058823529412, 'mic_recall': 70.9577754891864, 'mic_f1_score': 73.6111111111111, 'mac_precision': 66.00634766938326, 'mac_recall': 56.47105088824463, 'mac_f1_score': 60.353645354371366}
+No. 24 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 75.39766702014846, 'mic_recall': 73.22348094747683, 'mic_f1_score': 74.29467084639498, 'mac_precision': 65.77332464429239, 'mac_recall': 54.375470733415746, 'mac_f1_score': 58.2868487280252}
+No. 63 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 75.92008412197687, 'mic_recall': 74.35633367662204, 'mic_f1_score': 75.13007284079085, 'mac_precision': 66.83131267774284, 'mac_recall': 57.77487827313566, 'mac_f1_score': 61.2211239944489}

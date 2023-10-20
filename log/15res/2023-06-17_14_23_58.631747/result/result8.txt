@@ -1,0 +1,45 @@
+No. 5 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 40.030911901081915, 'mic_recall': 53.62318840579711, 'mic_f1_score': 45.840707964601776, 'mac_precision': 34.63205848855579, 'mac_recall': 38.50109942354549, 'mac_f1_score': 34.43146364236751}
+No. 6 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 49.72375690607735, 'mic_recall': 55.90062111801242, 'mic_f1_score': 52.63157894736842, 'mac_precision': 30.988930659983293, 'mac_recall': 35.8486361205206, 'mac_f1_score': 33.14685314685315}
+No. 7 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 54.26695842450766, 'mic_recall': 51.345755693581786, 'mic_f1_score': 52.76595744680851, 'mac_precision': 35.0080111032871, 'mac_recall': 31.84762583942473, 'mac_f1_score': 32.61056496781241}
+No. 8 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 66.66666666666666, 'mic_recall': 52.587991718426494, 'mic_f1_score': 58.79629629629629, 'mac_precision': 42.65350877192982, 'mac_recall': 32.609793783799844, 'mac_f1_score': 36.23458616947815}
+No. 11 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 57.333333333333336, 'mic_recall': 62.31884057971014, 'mic_f1_score': 59.72222222222223, 'mac_precision': 37.362006884817795, 'mac_recall': 40.540500386283945, 'mac_f1_score': 38.60790908680698}
+No. 14 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 62.098501070663815, 'mic_recall': 60.041407867494826, 'mic_f1_score': 61.05263157894737, 'mac_precision': 58.12169312169312, 'mac_recall': 45.325607654365, 'mac_f1_score': 47.5582558672725}
+No. 15 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 66.8997668997669, 'mic_recall': 59.42028985507246, 'mic_f1_score': 62.93859649122807, 'mac_precision': 58.883761611774645, 'mac_recall': 48.49872229155523, 'mac_f1_score': 52.91822342240743}
+No. 19 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 64.21267893660531, 'mic_recall': 65.0103519668737, 'mic_f1_score': 64.6090534979424, 'mac_precision': 63.24717984784295, 'mac_recall': 51.28228442384264, 'mac_f1_score': 54.76491101491101}
+No. 23 ：....
+ner_entity: 
+{'mic_precision': 0.0, 'mic_recall': 0.0, 'mic_f1_score': 0.0, 'mac_precision': 0.0, 'mac_recall': 0.0, 'mac_f1_score': 0.0}
+ rec: 
+{'mic_precision': 70.09345794392523, 'mic_recall': 62.11180124223602, 'mic_f1_score': 65.8616904500549, 'mac_precision': 79.0336236090953, 'mac_recall': 47.931360313781425, 'mac_f1_score': 55.26171879201238}
