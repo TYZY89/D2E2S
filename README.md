@@ -1,8 +1,6 @@
 # D2E2S [Accepted by COLING2024 main]
 
-## Getting Started
-
-### Installation
+## Quick Start
 
 ```bash
 git clone --depth 1 https://github.com/TYZY89/D2E2S.git
